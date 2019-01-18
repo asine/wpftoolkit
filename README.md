@@ -8,9 +8,9 @@ This free and open source toolkit is provided under the [Microsoft Public Licens
 
 ## Latest news
 
-**March 5, 2018** v3.3.0 released with [a major update to the DataGrid and 35 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0). Users of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) received v3.3.0 on March 1, 2017 with [45 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus330), v3.4.0 on June 5, 2017 with [52 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus340), and v3.5.0 on September 12, 2017 with [29 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus350), and v3.6.0 on January 15, 2018 with [1 new control and 40 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus360)
+**June 27, 2018** v3.4.0 released with [42 bug fixes and improvements](../../wiki/Improvements-in-v3.4.0). Users of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) v3.4.0 on June 5, 2017 with [52 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus340), v3.5.0 on September 12, 2017 with [29 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus350), v3.6.0 on January 15, 2018 with [1 new control and 40 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus360), and v3.7.0 on June 18, 2018 with [27 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus370)
 
-**January 15, 2018** v3.6.0 of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) released with [1 new control and 40 bug fixes and improvements](../../wiki/Improvements-in-v3.2.0#Plus360)
+**June 18, 2018** v3.7.0 of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) released with [27 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus370)
 
 **July 11, 2017:** The project's new home is Github. All issues from Codeplex are now located here.
 
@@ -92,7 +92,7 @@ This free and open source toolkit is provided under the [Microsoft Public Licens
 <td><a href="../../wiki/Zoombox">Zoombox</a></td>
 </tr>
 <tr>
-<td><a href="">Windows 8 Theme</a></td>
+<td><a href="../../wiki/Themes-Usage-Instructions">Windows 8 Theme</a></td>
 </tr>
 </table>
 
@@ -130,10 +130,10 @@ This free and open source toolkit is provided under the [Microsoft Public Licens
 <td><a href="../../wiki/WindowControl-Plus">WindowControl Plus</a></td>
 </tr>
 <tr>
-<td><a href="">Windows 10 theme</a></td>
-<td><a href="">Metro theme</a></td>
-<td><a href="">Office theme</a></td>
-<td><a href="">1+ release ahead</a></td>
+<td><a href="../../wiki/Themes-Usage-Instructions">Windows 10 theme</a></td>
+<td><a href="../../wiki/Xceed-Toolkit-Plus-for-WPF#feature-comparison">Metro theme</a></td>
+<td><a href="../../wiki/Xceed-Toolkit-Plus-for-WPF#feature-comparison">Office theme</a></td>
+<td><a href="../../wiki/Xceed-Toolkit-Plus-for-WPF#feature-comparison">1 or more release ahead</a></td>
 </tr>
 </table>
 
@@ -142,16 +142,18 @@ This free and open source toolkit is provided under the [Microsoft Public Licens
 <table>
 <tr>
 <td><a href="../../wiki/Advanced-DataGrid">Advanced DataGrid</a></td>
-<td><a href="">3D Views for WPF</a></td>
-<td><a href="">More themes</a></td>
-<td><a href="">All base WPF controls themed</a></td>
+<td><a href="../../wiki/Xceed-Toolkit-Plus-for-WPF#feature-comparison">3D Views for WPF</a></td>
+<td><a href="../../wiki/Xceed-Toolkit-Plus-for-WPF#feature-comparison">More themes</a></td>
+<td><a href="../../wiki/Xceed-Toolkit-Plus-for-WPF#feature-comparison">All base WPF controls themed</a></td>
 </tr>
 </table>
 
 ## Release history
 
+* **June 27, 2018 v3.4.0 released with [42 bug fixes and improvements](../../wiki/Improvements-in-v3.4.0).**
+* June 18, 2018, released v3.7.0 of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) released with [27 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0#Plus370).
 * **March 5, 2018, released v3.3.0 with [a major update to the DataGrid and 35 bug fixes and improvements](../../wiki/Improvements-in-v3.3.0).**
-* Jan. 15, 2018, released v3.6.0 of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) released with [1 new control and 40 bug fixes and improvements](../../wiki/Improvements-in-v3.2.0#Plus360)
+* Jan. 15, 2018, released v3.6.0 of the [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) released with [1 new control and 40 bug fixes and improvements](../../wiki/Improvements-in-v3.2.0#Plus360).
 * **September 25, 2017, released v3.2.0 with [1 new control and 24 bug fixes and improvements](../../wiki/Improvements-in-v3.2.0).**
 * September 12, 2017, released [Plus Edition](../../wiki/Xceed-Toolkit-Plus-for-WPF) v3.5.0 with [29 bug fixes and improvements](../../wiki/Improvements-in-v3.2.0#Plus350).
 * **July 11, 2017, released v3.1.0 with [37 bug fixes and improvements](../../wiki/Improvements-in-v3.1.0).**
